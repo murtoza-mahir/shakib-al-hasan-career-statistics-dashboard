@@ -66,9 +66,9 @@ This project presents an interactive **Cricket Career Statistics Dashboard** bui
 ```
 shakib-al-hasan-career-statistics-dashboard/
 │
-├── shakib-al-hasan-career-statistics-dashboard.pbix   # Power BI dashboard file                             
-├── preview.png                                # Dashboard screenshot
-└── README.md                                  # Project documentation
+├── shakib-al-hasan-career-statistics-dashboard.pbix     # Power BI dashboard file                             
+├── preview.png                                          # Dashboard screenshot
+└── README.md                                            # Project documentation
 ```
 
 ---
